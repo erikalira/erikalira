@@ -109,3 +109,4 @@ Programming Languages
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikalira&label=Profile%20views&color=0e75b6&style=flat" alt="erikalira" /> </p>
 
 
+<img src="https://lastfm-collage.herokuapp.com/collage?username=erikalira&method=artist&period=overall&column=3&row=3&caption=false&scrobble=false" />
