@@ -1,17 +1,3 @@
-
-<!--
-**erikalira/erikalira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-
--->
-
-  
 <h1 align="center">Hi 👋, I'm Erika Lira <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/292/flag-brazil_1f1e7-1f1f7.png" height="25"/> </h1>
 
 
@@ -19,12 +5,14 @@ Here are some ideas to get you started:
   - 💾 Data Science
   - 👩‍💻 Full-Stack Web Development
 
-### 🎡 Hobbies: 
+### 🎡 Favorite Things: 
 - 🎮 Video Games
 - 🎾 Tennis
 - 🎧 Pop/Rock/MPB
+- 🍣 Sushi
+- 🎨 Illustrations
 
-⚡ Fun fact: former TFT 💎diamond 2(season 1) and LOL soloq platinum 2(season 9)!
+⚡ Fun fact: former TFT 💎diamond 2(season 1) and LOL soloq 🏅platinum 2(season 9)!
 
 ## 💻 Technologies & Tools
 
@@ -37,7 +25,6 @@ Programming Languages
 </p>
  
  Frontend Development
-  
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -45,7 +32,6 @@ Programming Languages
 </p>
   
  Backend Development
- 
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
@@ -81,15 +67,13 @@ Programming Languages
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
- 
 
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikalira&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikalira&show_icons=true&theme=radical) 
 
-  
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikalira&" alt="erikalira" /></p>
- 
 
 <!--
 <p align="left"> 
@@ -106,10 +90,9 @@ Programming Languages
 </p>
 
 
-
 <!-- views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikalira&label=Profile%20views&color=0e75b6&style=flat" alt="erikalira" /> </p>
 
 <!-- favorite artists
-<img src="https://lastfm-collage.herokuapp.com/collage?username=erikalira&method=artist&period=overall&column=5&row=2&caption=true&scrobble=false" />
+<a href="https://open.spotify.com/user/12142197717"><img src="https://lastfm-collage.herokuapp.com/collage?username=erikalira&method=artist&period=overall&column=5&row=2&caption=true&scrobble=false" /></a>
 -->
