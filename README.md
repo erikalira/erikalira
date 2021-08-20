@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ### 🎡 Hobbies: 
 - 🎮 Video Games
 - 🎾 Tennis
+- 🎧 Pop/Rock/MPB
 
 ⚡ Fun fact: former TFT 💎diamond 2(season 1) and LOL soloq platinum 2(season 9)!
 
@@ -98,8 +99,9 @@ Programming Languages
 <p align="left">
 <a href="https://linkedin.com/in/erikaliras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erikaliras" height="30" width="40" /></a>
 <a href="https://kaggle.com/erikalira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erikalira" height="30" width="40" /></a>
-<a href="https://www.urionlinejudge.com.br/judge/pt/profile/269278" target="blank"><img align="center" src="https://www.urionlinejudge.com.br//judge/favicon.ico" alt="uri" height="30" width="40" /></a>
+<a href="https://www.urionlinejudge.com.br/judge/pt/profile/269278" target="blank"><img align="center" src="https://www.urionlinejudge.com.br//judge/favicon.ico" alt="uri" height="30" width="30" /></a>
 <a href="https://codepen.io/erikalira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erikalira" height="30" width="40" /></a>
+<a href="https://www.last.fm/user/erikalira" target="blank"><img align="center" src="https://www.last.fm/static/images/lastfm_avatar_applemusic.b06eb8ad89be.png" alt="erikalira" height="30" width="30" /></a>
   
 </p>
 
@@ -108,5 +110,6 @@ Programming Languages
 <!-- views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikalira&label=Profile%20views&color=0e75b6&style=flat" alt="erikalira" /> </p>
 
-
-<img src="https://lastfm-collage.herokuapp.com/collage?username=erikalira&method=artist&period=overall&column=3&row=3&caption=false&scrobble=false" />
+<!-- favorite artists
+<img src="https://lastfm-collage.herokuapp.com/collage?username=erikalira&method=artist&period=overall&column=5&row=2&caption=true&scrobble=false" />
+-->
