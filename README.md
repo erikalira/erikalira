@@ -5,14 +5,14 @@
   - 💾 Data Science
   - 👩‍💻 Full-Stack Web Development
 
-### 🎡 Favorite Things: 
+<!-- ### 🎡 Favorite Things: 
 - 🎮 Video Games
 - 🎾 Tennis
 - 🎧 Pop/Rock/MPB
 - 🍣 Sushi
 - 🎨 Illustrations
 
-⚡ Fun fact: former TFT 💎diamond 2(season 1) and LOL soloq 🏅platinum 2(season 9)!
+⚡ Fun fact: former TFT 💎diamond 2(season 1) and LOL soloq 🏅platinum 2(season 9)! -->
 
 ## 💻 Technologies & Tools
 
