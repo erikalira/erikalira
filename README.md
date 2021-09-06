@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erika Lira <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/292/flag-brazil_1f1e7-1f1f7.png" height="25"/> </h1>
+<h1 align="center">Hi 👋, I'm Erika Lira </h1>
 
 
 ### Interests:
