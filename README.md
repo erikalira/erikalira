@@ -39,10 +39,7 @@
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikalira&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikalira&show_icons=true&theme=radical) 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikalira&" alt="erikalira" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikalira&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <p align="left"> 
